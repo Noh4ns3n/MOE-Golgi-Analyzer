@@ -1,0 +1,4 @@
+ ,Image name,Number of cells,Number of ROI(s),threshold min C3,threshold max C3,threshold min C2,threshold max C2,RawIntDen C2 in C3,RawIntDen C2 whole cells,IntDen C2 in C3,IntDen C2 whole cells,Mean Strepta in Golgi,Min Strepta in Golgi,Max Strepta in Golgi,Mean Strepta Out of Golgi,Min Strepta Out of Golgi,Max Strepta Out of Golgi
+1,L294l2s1,59,194,587,4096,90,1800,11671386,122828982,14795.270,30362388.739,343.915,202.805,546.662,152.317,90,1620
+2,L294l2s2,74,193,522,4096,90,1800,18875154,181800215,24050.486,44939628.342,625.636,346.067,963.923,199.727,90,1800
+3,L294l2s3,37,85,854,4096,90,1800,12158539,107764118,34947.654,26638469.110,540.090,270.174,921.186,170.181,90,1790
