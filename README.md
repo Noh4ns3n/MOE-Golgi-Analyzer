@@ -1,5 +1,7 @@
 # MOE-Golgi-Analyzer
 
+DOI : 10.5281/zenodo.6778042
+
 Description of the folder content :
 
 
